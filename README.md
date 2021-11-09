@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ajaykumar18447
-- 👀 I’m interested in Android Development 
+- 👀 I’m interested in java project
 - 🌱 I’m currently learning Android Development,Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail - Ajaykumar18447@gmail.com 
