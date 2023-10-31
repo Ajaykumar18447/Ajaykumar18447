@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ajaykumar18447
-- 👀 I’m interested in java project
+- 👋 Hi, I’m @Ajaykumar
+- 👀 I’m interested in Developing project
 - # Full Stack Java Developer
-- 🌱 I’m currently learning Android Development,Web development
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail - Ajaykumar18447@gmail.com 
 
