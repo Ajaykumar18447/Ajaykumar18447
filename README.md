@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ajaykumar
 - 👀 I’m interested in Developing project
-- # Full Stack Java Developer
+- # Full Stack  Developer
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail - Ajaykumar18447@gmail.com 
