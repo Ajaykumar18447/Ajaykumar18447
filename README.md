@@ -1,5 +1,5 @@
 👋 Hi, I’m Ajaykumar
-🌟 Passionate Full Stack Developer with a knack for creating seamless user experiences and robust backend systems.
+🌟 Passionate Full Stack Developer with expertise in backend, frontend, and Android app development..
 🚀 Enthusiastic about innovative projects and cutting-edge technology.
 
 💼 Currently exploring collaborative opportunities in exciting and challenging projects.
